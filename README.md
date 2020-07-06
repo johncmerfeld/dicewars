@@ -1,3 +1,10 @@
+## John's mods TODO
+
+Height?
+Territory types? 
+Islands / Map customization?
+Replay? Slower AI players?
+
 # Dice Wars
 
 Dice Wars is a strategy game where players take turns to attack adjacent territories to expand
